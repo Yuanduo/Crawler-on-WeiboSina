@@ -1,0 +1,2 @@
+Manifest-Version: 1.0
+Class-Path: lib/commons-codec-1.6.jar lib/commons-codec.jar lib/commons-httpclient.jar lib/commons-logging-1.1.1.jar lib/commons-logging.jar lib/fluent-hc-4.2.2.jar lib/htmlparser.jar lib/httpclient-4.2.2.jar lib/httpclient-cache-4.2.2.jar lib/httpcore-4.2.2.jar lib/httpmime-4.2.2.jar
